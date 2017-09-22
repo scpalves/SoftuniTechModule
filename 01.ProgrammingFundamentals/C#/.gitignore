@@ -1,0 +1,16 @@
+.vs
+Lab.sln
+01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax.pptx
+01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax-Lab.docx
+
+01.IntroAndBasicSyntax/Lab/P01_Greeting/bin/
+01.IntroAndBasicSyntax/Lab/P01_Greeting/obj/
+P01_Greeting.csproj
+
+01.IntroAndBasicSyntax/Lab/P02_Add2Nums/bin/
+01.IntroAndBasicSyntax/Lab/P02_Add2Nums/obj/
+P02_Add2Nums.csproj
+
+01.IntroAndBasicSyntax/Lab/P03_EmployeeData/bin/
+01.IntroAndBasicSyntax/Lab/P03_EmployeeData/obj/
+P03_EmployeeData.csproj
