@@ -1,10 +1,15 @@
 .idea
-01.IntroAndBasicSyntax/Lab/out/production/Lab
 Lab.iml
+Exercises.iml
+#--------------------01---------------------------------------------------------
+01.IntroAndBasicSyntax/Lab/out/production/Lab
 01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax.pptx
 01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax-Lab.docx
 
-
 01.IntroAndBasicSyntax/Exercises/out/production/Exercises
-Exercises.iml
 01.IntroAndBasicSyntax/Exercises/01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax-Exercises.docx
+
+#--------------------02---------------------------------------------------------
+02.ConditionalStatementsAndLoops/Lab/out/production/Lab
+02.ConditionalStatementsAndLoops/Lab/02.Programming-Fundamentals-CSharp-Conditional-Statements-and-Loops.pptx
+02.ConditionalStatementsAndLoops/Lab/02.Programming-Fundamentals-CSharp-Conditional-Statements-and-Loops-Lab.docx
