@@ -1,8 +1,10 @@
 .vs
 Lab.sln
-
+Exercises.sln
+#-----------------------01-------------------------------------------
 01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax.pptx
 01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax-Lab.docx
+01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax-Exercises.docx
 
 01.IntroAndBasicSyntax/Lab/P01_Greeting/bin/
 01.IntroAndBasicSyntax/Lab/P01_Greeting/obj/
@@ -18,9 +20,6 @@ P03_EmployeeData.csproj
 
 
 
-
-Exercises.sln
-01.Programming-Fundamentals-CSharp-Intro-and-Basic-Syntax-Exercises.docx
 
 01.IntroAndBasicSyntax/Exercises/P01_DebitCardNumber/bin/
 01.IntroAndBasicSyntax/Exercises/P01_DebitCardNumber/obj/
@@ -41,6 +40,63 @@ P04_BeverageLabels.csproj
 01.IntroAndBasicSyntax/Exercises/P05_CharacterStats/bin/
 01.IntroAndBasicSyntax/Exercises/P05_CharacterStats/obj/
 P05_CharacterStats.csproj
+#-----------------------02-------------------------------------------
+02.Programming-Fundamentals-CSharp-Conditional-Statements-and-Loops.pptx
+02.Programming-Fundamentals-CSharp-Conditional-Statements-and-Loops.docx
+
+
+02.ConditionalStatementsAndLoops/Lab/P01_Passed/bin/
+02.ConditionalStatementsAndLoops/Lab/P01_Passed/obj/
+P01_Passed.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P02_PassedOrFailed/bin/
+02.ConditionalStatementsAndLoops/Lab/P02_PassedOrFailed/obj/
+P02_PassedOrFailed.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P03_BackIn30Min/bin/
+02.ConditionalStatementsAndLoops/Lab/P03_BackIn30Min/obj/
+P03_BackIn30Min.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P04_MonthPrinter/bin/
+02.ConditionalStatementsAndLoops/Lab/P04_MonthPrinter/obj/
+P04_MonthPrinter.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P05_ForeignLanguages/bin/
+02.ConditionalStatementsAndLoops/Lab/P05_ForeignLanguages/obj/
+P05_ForeignLanguages.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P05_TheatrePromotions/bin/
+02.ConditionalStatementsAndLoops/Lab/P05_TheatrePromotions/obj/
+P05_TheatrePromotions.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P06_TheatrePromotions/bin/
+02.ConditionalStatementsAndLoops/Lab/P06_TheatrePromotions/obj/
+P06_TheatrePromotions.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P07_DivisionBy3/bin/
+02.ConditionalStatementsAndLoops/Lab/P07_DivisionBy3/obj/
+P07_DivisionBy3.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P08_SumOfOddNumbers/bin/
+02.ConditionalStatementsAndLoops/Lab/P08_SumOfOddNumbers/obj/
+P08_SumOfOddNumbers.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P09_MultiplicationTable/bin/
+02.ConditionalStatementsAndLoops/Lab/P09_MultiplicationTable/obj/
+P09_MultiplicationTable.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P10_MultiplicationTable2/bin/
+02.ConditionalStatementsAndLoops/Lab/P10_MultiplicationTable2/obj/
+P10_MultiplicationTable2.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P11_OddNumber/bin/
+02.ConditionalStatementsAndLoops/Lab/P11_OddNumber/obj/
+P11_OddNumber.csproj
+
+02.ConditionalStatementsAndLoops/Lab/P12_NumberChecker/bin/
+02.ConditionalStatementsAndLoops/Lab/P12_NumberChecker/obj/
+P12_NumberChecker.csproj
+
 
 
 
