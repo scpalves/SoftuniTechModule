@@ -12,6 +12,7 @@ namespace P01_PracticeIntegerNumbers
             ushort n4 = 64876;
             uint n5 = 2147483648;
             int n6 = -1_141_583_228;
+            long n7 = -1_223_372_036_854_775_808;
 
             Console.WriteLine(n1);
             Console.WriteLine(n2);
@@ -19,6 +20,7 @@ namespace P01_PracticeIntegerNumbers
             Console.WriteLine(n4);
             Console.WriteLine(n5);
             Console.WriteLine(n6);
+            Console.WriteLine(n7);
         }
     }
 }
